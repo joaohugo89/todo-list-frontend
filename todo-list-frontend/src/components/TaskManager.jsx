@@ -63,7 +63,6 @@ const TaskManager = () => {
         try {
             setIsLoading(true);
             const result = await updateTask(id, updatedTask); // result should include updated name/desc
-            console.log("Backend returned updated task:", result);
         
             // Safely update task with new info (can use result or updatedTask)
             setTasks(prev =>
