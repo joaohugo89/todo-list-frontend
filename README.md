@@ -33,5 +33,5 @@ A modern, responsive task management application built with **React**, **Vite**,
 
 1. **Clone the repository:**
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/joaohugo89/todo-list-frontend.git
    cd todo-list-frontend
