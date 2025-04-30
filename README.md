@@ -1,6 +1,9 @@
-  # Todo List Frontend
+# Todo List Frontend
 
 A modern, responsive task management application built with **React**, **Vite**, and **Tailwind CSS**.
+
+> **This frontend consumes the API from:**  
+> [https://github.com/joaohugo89/todo_list-desafio](https://github.com/joaohugo89/todo_list-desafio)
 
 ## Features
 
@@ -17,3 +20,18 @@ A modern, responsive task management application built with **React**, **Vite**,
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Lucide React Icons](https://lucide.dev/icons/)
 - [ESLint](https://eslint.org/) for code quality
+
+## Getting Started
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (v18 or newer recommended)
+- [npm](https://www.npmjs.com/) (comes with Node.js)
+- The [todo_list-desafio API](https://github.com/joaohugo89/todo_list-desafio) running locally or remotely
+
+### Installation
+
+1. **Clone the repository:**
+   ```sh
+   git clone <your-repo-url>
+   cd todo-list-frontend
